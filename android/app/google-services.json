@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "568427518989",
+    "project_id": "spinning-foods",
+    "storage_bucket": "spinning-foods.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568427518989:android:1b4593e4f6ad311b754944",
+        "android_client_info": {
+          "package_name": "com.patcharaphong.app.spinning.wheel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU9Hr01htDEyTtxbmhbA8r0-Rizocawmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568427518989:android:ff1fd34a04ad57c7754944",
+        "android_client_info": {
+          "package_name": "rog.patcharaphong.spinning_foods"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU9Hr01htDEyTtxbmhbA8r0-Rizocawmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
