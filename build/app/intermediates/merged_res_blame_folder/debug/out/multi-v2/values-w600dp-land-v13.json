@@ -4,7 +4,7 @@
             "outputFile": "com.patcharaphong.app.spinning.wheel.app-mergeDebugResources-50:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
             "map": [
                 {
-                    "source": "/Users/patcharaphongpadongyang/.gradle/caches/transforms-3/67b109eeb4f7feb9b2cb88d0fdc18b93/transformed/material-1.10.0/res/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+                    "source": "C:\\Users\\plame\\.gradle\\caches\\transforms-3\\9a665d38c362a81962f5bd668a5fabd5\\transformed\\material-1.10.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

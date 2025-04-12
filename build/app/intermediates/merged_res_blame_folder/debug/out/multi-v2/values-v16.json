@@ -4,7 +4,7 @@
             "outputFile": "com.patcharaphong.app.spinning.wheel.app-mergeDebugResources-50:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/patcharaphongpadongyang/.gradle/caches/transforms-3/790ca845ebefc0ef219a596226d215e2/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\plame\\.gradle\\caches\\transforms-3\\8d7961a934f47e3cf2976e08fa566409\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

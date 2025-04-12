@@ -4,7 +4,7 @@
             "outputFile": "com.patcharaphong.app.spinning.wheel.app-mergeDebugResources-50:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/patcharaphongpadongyang/.gradle/caches/transforms-3/67b109eeb4f7feb9b2cb88d0fdc18b93/transformed/material-1.10.0/res/values-v23/values-v23.xml",
+                    "source": "C:\\Users\\plame\\.gradle\\caches\\transforms-3\\9a665d38c362a81962f5bd668a5fabd5\\transformed\\material-1.10.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,5,9,13,16,21,25,28,31,34,39,42,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/patcharaphongpadongyang/.gradle/caches/transforms-3/790ca845ebefc0ef219a596226d215e2/transformed/appcompat-1.6.1/res/values-v23/values-v23.xml",
+                    "source": "C:\\Users\\plame\\.gradle\\caches\\transforms-3\\8d7961a934f47e3cf2976e08fa566409\\transformed\\appcompat-1.6.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -34,7 +34,7 @@
                     }
                 },
                 {
-                    "source": "/Users/patcharaphongpadongyang/.gradle/caches/transforms-3/0b16c2135efc9881ec9c2386bbcb677c/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "source": "C:\\Users\\plame\\.gradle\\caches\\transforms-3\\fb42c35be687d1f7a5a8e42991b288ab\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

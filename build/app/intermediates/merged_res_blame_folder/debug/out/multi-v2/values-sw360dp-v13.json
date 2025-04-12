@@ -4,7 +4,7 @@
             "outputFile": "com.patcharaphong.app.spinning.wheel.app-mergeDebugResources-50:/values-sw360dp-v13/values-sw360dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/patcharaphongpadongyang/.gradle/caches/transforms-3/68e142ef8359c595e6a0cf974c40276a/transformed/preference-1.2.1/res/values-sw360dp-v13/values-sw360dp-v13.xml",
+                    "source": "C:\\Users\\plame\\.gradle\\caches\\transforms-3\\c099056c0fc65f2ea881fc8e1f560300\\transformed\\preference-1.2.1\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

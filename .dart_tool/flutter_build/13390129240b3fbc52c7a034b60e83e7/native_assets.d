@@ -1,1 +1,0 @@
- /Users/patcharaphongpadongyang/Documents/App_spin_wheel/.dart_tool/flutter_build/13390129240b3fbc52c7a034b60e83e7/native_assets.yaml: 
